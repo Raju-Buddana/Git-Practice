@@ -2,4 +2,4 @@
 
 echo "hello world !";
 $name = "raju";
-echo "his name is :$name";
+echo 2+5;
